@@ -1,0 +1,4 @@
+atu
+===
+
+Autotools Utility Functions
